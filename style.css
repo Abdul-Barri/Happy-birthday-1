@@ -5,9 +5,6 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  background-image: url('img/bolu2.jpg'); /* Replace 'your-image.jpg' with your image file name */
-  background-repeat: no-repeat;  /* Prevents the image from repeating */
-/*   background-attachment: fixed;  /* Keeps the background image static as you scroll */ */
 }
 
 .container {
